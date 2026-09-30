@@ -1,0 +1,7 @@
+streamlit
+groq
+transformers
+sentence-transformers
+torch
+numpy
+pandas
